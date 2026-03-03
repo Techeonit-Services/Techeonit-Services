@@ -1,6 +1,6 @@
 # 🚀 Techeon IT | AI-Led Digital Transformation
 
-![Techeon IT Banner](https://techeonit.ai/assets/images/logo.png) > **"Experience Engineering Meets AI-Driven Growth."**
+ **"Experience Engineering Meets AI-Driven Growth."**
 
 Techeon IT is a global technology partner specializing in bridging the gap between legacy engineering and modern AI ecosystems. We build scalable, revenue-first systems designed for the future of digital commerce and enterprise operations.
 
